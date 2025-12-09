@@ -597,6 +597,11 @@
                 font-size: 15px;
             }
 
+            .hashtag {
+                font-size: 16px;
+                padding: 4px 12px;
+            }
+
             .qr-section {
                 padding: 25px 15px;
                 margin-top: 25px;
@@ -630,6 +635,12 @@
 
             .logo {
                 height: 40px;
+            }
+
+            .hashtag {
+                font-size: 14px;
+                padding: 3px 10px;
+                letter-spacing: 0px;
             }
 
             .qr-section {
