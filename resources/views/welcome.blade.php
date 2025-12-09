@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Focus Group Discussion - Sensus Ekonomi 2026 | BPS Kota Batam</title>
+    <title>Forum Group Discussion - Sensus Ekonomi 2026 | BPS Kota Batam</title>
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -676,7 +676,7 @@
         <div class="content">
             <div style="text-align: center;">
                 <span class="event-badge">📅 Rabu, 10 Desember 2025</span>
-                <h1 class="event-title">Focus Group Discussion</h1>
+                <h1 class="event-title">Forum Group Discussion</h1>
                 <p class="event-subtitle">Sensus Ekonomi 2026</p>
             </div>
 
